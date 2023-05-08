@@ -1,3 +1,14 @@
+### Tutorial Link
+https://www.youtube.com/watch?v=DgRrrOt0Vr8
+
+
+
+### Designing is left.
+
+I want to implement CSS Grid styles by following the tutorial.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
